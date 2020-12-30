@@ -1,5 +1,8 @@
 flask
+flask_jwt
 app
 werkzeug
 jwt 
 datetime
+functools == 0.5
+Flask-Limiter==0.3.1
