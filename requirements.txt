@@ -4,5 +4,4 @@ app
 werkzeug
 jwt 
 datetime
-functools
 Flask-Limiter==0.3.1
